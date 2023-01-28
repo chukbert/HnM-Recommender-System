@@ -7,6 +7,8 @@ This project is related to the [kaggle competition](https://www.kaggle.com/compe
 
 ## Dataset
 
+The dataset can be downloaded [here](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data).
+
   >  ```articles.csv``` : detailed metadata for each ```article_id``` available for purchase  
   ```customers.csv``` :  metadata for each ```customer_id``` in dataset  
   ```transactions_train.csv``` : the training data, consisting purchase log of customers  
