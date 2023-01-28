@@ -1,7 +1,7 @@
 # HnM Fashion Recommender System
 ## Description
 
-This project is related to the [kaggle competition](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations). The goal is to develop product recommendations based on data from previous transactions, as well as from customer and product meta data. The available meta data spans from simple data, such as garment type and customer age, to text data from product descriptions, to image data from garment images. 
+This project is related to the [kaggle competition](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations). The goal is to develop product recommendations based on data from previous transactions as well as from customer and product meta data. The available meta data spans from simple data, such as garment type and customer age, to text data from product descriptions and image data from garment images.
 
 **The final task** is to recommend up to 12 products for customers to purchase during the 7-day period immediately after the training data ends. Performance is evaluated according to the Mean Average Precision @ 12 **([MAP@12](https://www.kaggle.com/code/debarshichanda/understanding-mean-average-precision))**.
 
