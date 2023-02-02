@@ -28,9 +28,9 @@ The dataset can be downloaded [here](https://www.kaggle.com/competitions/h-and-m
 ## Result
 | | |
 |:-------------------------:|:-------------------------:|
-|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675324658/hnm/age_dist_grouped_w7weab.png"  width="100%" height="100%">|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325222/hnm/club_member_ig13yw.png"  width="100%" height="100%">|
-|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_item_wshcqk.png"  width="100%" height="80%">|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/prod_group_ijbm4t.png"  width="100%" height="80%">|
-|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_type_f8gvzv.png"  width="100%" height="80%">|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_section_ds5y8h.png"  width="100%" height="80%">|
-|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_prod_name_mvd3bg.png"  width="100%" height="80%">|
+|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675324658/hnm/age_dist_grouped_w7weab.png"  width="100%" height="100%">|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325222/hnm/club_member_ig13yw.png"  width="100%" height="80%">|
+|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_item_wshcqk.png"  width="100%" height="80%">|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_prod_name_mvd3bg.png"  width="100%" height="90%">|
+|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_type_f8gvzv.png"  width="100%" height="100%">|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_section_ds5y8h.png"  width="100%" height="100%">|
+|<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/prod_group_ijbm4t.png"  width="100%" height="100%">|
 
 
