@@ -26,4 +26,23 @@ The dataset can be downloaded [here](https://www.kaggle.com/competitions/h-and-m
 >   - Feed data training and candidates to LGBMRanker and use the ranker to output predictions. Get **0.2045 score** and 1798/2952 place ~ **40% better** than other competitors. 
 
 ## Result
-<img src="https://www.kaggleusercontent.com/kf/104384600/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..KHrZgHXMegv1TRRavtX7ZQ.COLJHOTd8pWIOY9oEnEX-tW6BShzf0g8WH_CGxYehupVedEXut7-Zuh-8cSWKF-B7yIwQ2EEB_sgBaApXslXloAIPrhS50gY2bsTFtQolpIqe64xzE35J7V_6O1IwpH00akPYBKiLFvGFZlb4BOYiFnQxaEP8FMUgWEE6KhGW171tUyLb0RySJUsQ_XSjCcYwSBaq5d9UiP6PUm-bKHBfMJL1tSm96PzFSopdMDno90pxbZqTBrN7jk3ScoK6axMQC9AO3QoCZc_GrT26IXMHu2mcGYEGL59FPuMR_LZsM6kwfl6AnKK0uo7kj1iFvy6aljthEv979Qq64dmt9UgBRZ2vWnOe5l8fxkQkNn8CKBpEbBbrmh07UyvakX3kzuuVXP_V_8bU6qbk_7MzuiLXdx6_hV0uvo3Q3tJyACFUq6lmV1Roj4IEl2fr_JTnPIWWO7Mpc2EHE9N0KTSFHMmoOQiuSZ56orxYPK1-bT4gJGFtQpRCIy25mVr96jDjyfTZyhglFGpIcpJFAvFwOf6hvHtUubLFshBwDbfJiHtxiHStWO3znHE7SViijWsVP_sGABdfKLNn0gckLpjoABP20VvwTMJyVpcgj8Wakznbp_TjAn0Z5cuDEXClZn0zuYiuA26Y12T9SvUuwMEEoxWdA5gFAo44-UlOKRZY4p2ycA.T-f_AMpTynOLWk7PLxuc8A/__results___files/__results___10_0.png"  width="60%" height="30%">
+<div class="column">
+  <img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675324658/hnm/age_dist_grouped_w7weab.png"  width="60%" height="30%">
+</div>
+<div class="column">
+  <img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325222/hnm/club_member_ig13yw.png"  width="60%" height="30%">
+</div>
+<style>
+  .column {
+    float: left;
+    width: 50%;
+  }
+</style>
+
+<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_item_wshcqk.png"  width="60%" height="30%">
+<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/prod_group_ijbm4t.png"  width="60%" height="30%">
+<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_type_f8gvzv.png"  width="60%" height="30%">
+<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_section_ds5y8h.png"  width="60%" height="30%">
+<img src="https://res.cloudinary.com/dxf1c5iwj/image/upload/v1675325223/hnm/pop_prod_name_mvd3bg.png"  width="60%" height="30%">
+
+
